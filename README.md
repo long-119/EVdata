@@ -2,7 +2,7 @@
 Includes the number of EVs for 14 days and specific information about each EV for a random day in the 5 BSSs
 
 
-## The number of EVs for 14 days
+## the number of EVs for 14 days
 > The folder includes 5 files, each file recordes the number of EVs for each hour of the 14 day.
 the ***date*** is from 6/20/2022 to 7/3/2022, and the ***hour*** is from 0 to 24 o 'clock.
 
